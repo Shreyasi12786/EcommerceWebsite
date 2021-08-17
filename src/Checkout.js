@@ -1,6 +1,6 @@
 import React from 'react'
 import './Checkout.css'
-import train from './train.jpg'
+
 import Subtotal from './Subtotal'
 
 function Checkout() {
