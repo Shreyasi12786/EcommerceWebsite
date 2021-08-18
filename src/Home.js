@@ -17,24 +17,28 @@ function Home() {
       
       <div className="home-row">
         <Product 
+        id={1}
         title='Harry Potter Tshirt (ALWAYS)'
         price={1499}
         rating={5}
         image={prod1}
         />
         <Product
+        id={2}
           title='Harry Potter Always NeckPiece'
           price={1299}
           rating={3}
           image={prod2}
         />
                 <Product
+                id={3}
           title='Harry Potter Always NeckPiece'
           price={1299}
           rating={5}
           image={prod2}
         />
                 <Product
+                id={4}
           title='Harry Potter Always NeckPiece'
           price={2299}
           rating={5}
@@ -45,30 +49,35 @@ function Home() {
       </div>
       <div className="home-row">{/* Product */}
       <Product 
+      id={5}
         title='Harry Potter Magic Mug'
         price={1299}
         rating={5}
         image={prod3}
       />
         <Product
+          id={6}
           title='Harry Potter Cushion'
           price={1499}
           rating={5}
           image={prod4}
         />
         <Product
+        id={7}
           title='Harry Potter Gryffindor Scarf'
           price={2499}
           rating={5}
           image={prod5}
         />
          <Product
+         id={8}
           title='Harry Potter Gryffindor Scarf'
           price={2499}
           rating={5}
           image={prod5}
         />
          <Product
+         id={8}
           title='Harry Potter Gryffindor Scarf'
           price={499}
           rating={5}
@@ -77,21 +86,25 @@ function Home() {
       </div>
       <div className="home-row">{/* Product */}
           <Product
+          id={9}
             title='Harry Potter Complete Book Collection'
             price={1499}
             rating={5}
             image={prod6}/>
             <Product
+            id={10}
             title='Harry Potter Complete Book Collection'
             price={1499}
             rating={5}
             image={prod6}/>
             <Product
+            id={11}
             title='Harry Potter Complete Book Collection'
             price={1499}
             rating={5}
             image={prod6}/>
             <Product
+            id={12}
             title='Harry Potter Complete Book Collection'
             price={1499}
             rating={5}
