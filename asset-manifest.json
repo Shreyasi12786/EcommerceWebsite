@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/EcommerceWebsite/static/css/main.2d19aaa7.chunk.css",
+    "main.js": "/EcommerceWebsite/static/js/main.ec7930fa.chunk.js",
+    "main.js.map": "/EcommerceWebsite/static/js/main.ec7930fa.chunk.js.map",
+    "runtime-main.js": "/EcommerceWebsite/static/js/runtime-main.7912f033.js",
+    "runtime-main.js.map": "/EcommerceWebsite/static/js/runtime-main.7912f033.js.map",
+    "static/js/2.02513104.chunk.js": "/EcommerceWebsite/static/js/2.02513104.chunk.js",
+    "static/js/2.02513104.chunk.js.map": "/EcommerceWebsite/static/js/2.02513104.chunk.js.map",
+    "static/js/3.3c24eeeb.chunk.js": "/EcommerceWebsite/static/js/3.3c24eeeb.chunk.js",
+    "static/js/3.3c24eeeb.chunk.js.map": "/EcommerceWebsite/static/js/3.3c24eeeb.chunk.js.map",
+    "index.html": "/EcommerceWebsite/index.html",
+    "static/css/main.2d19aaa7.chunk.css.map": "/EcommerceWebsite/static/css/main.2d19aaa7.chunk.css.map",
+    "static/js/2.02513104.chunk.js.LICENSE.txt": "/EcommerceWebsite/static/js/2.02513104.chunk.js.LICENSE.txt",
+    "static/media/harry.347e44e6.png": "/EcommerceWebsite/static/media/harry.347e44e6.png",
+    "static/media/hogwarts.4ae65c6e.jpg": "/EcommerceWebsite/static/media/hogwarts.4ae65c6e.jpg",
+    "static/media/hogwarts.78ae69a2.png": "/EcommerceWebsite/static/media/hogwarts.78ae69a2.png",
+    "static/media/hp.5225c846.png": "/EcommerceWebsite/static/media/hp.5225c846.png",
+    "static/media/prod1.819eae49.PNG": "/EcommerceWebsite/static/media/prod1.819eae49.PNG",
+    "static/media/prod2.0db1943f.PNG": "/EcommerceWebsite/static/media/prod2.0db1943f.PNG",
+    "static/media/prod3.3a8f6ed9.PNG": "/EcommerceWebsite/static/media/prod3.3a8f6ed9.PNG",
+    "static/media/prod4.148645d9.PNG": "/EcommerceWebsite/static/media/prod4.148645d9.PNG",
+    "static/media/prod5.da720786.PNG": "/EcommerceWebsite/static/media/prod5.da720786.PNG",
+    "static/media/prod6.e0535406.PNG": "/EcommerceWebsite/static/media/prod6.e0535406.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7912f033.js",
+    "static/js/2.02513104.chunk.js",
+    "static/css/main.2d19aaa7.chunk.css",
+    "static/js/main.ec7930fa.chunk.js"
+  ]
+}
